@@ -7,7 +7,7 @@ This project is the website of Udemıg school. You can find all information abou
 
 HTML-CSS
 
-<h2> screenshot </h2>
+<h2> Screenshot </h2>
 
 ![](project.gif)
 
